@@ -19,3 +19,7 @@
 [submodule "openembedded-core"]
 	path = openembedded-core
 	url = https://git.openembedded.org/openembedded-core
+[submodule "meta-openvario"]
+	path = meta-openvario
+	url = https://github.com/remcoderksen/meta-openvario.git
+	branch = MyBranch
